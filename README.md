@@ -1,10 +1,10 @@
 Usernames:
-apple
-pineapple
+- apple
+- pineapple
 
 Passwords:
-banana
-pear
+- banana
+- pear
 
 LIBRARIES REQUIRED:
 - Pandas
